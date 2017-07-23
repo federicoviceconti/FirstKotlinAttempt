@@ -1,6 +1,7 @@
 package com.example.personale.firebaseim.conversation.adapter
 
 import com.example.personale.firebaseim.model.Conversation
+import com.example.personale.firebaseim.model.Message
 
 /**
  * Created by personale on 7/18/17.
